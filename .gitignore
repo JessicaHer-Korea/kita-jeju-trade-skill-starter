@@ -1,0 +1,6 @@
+.DS_Store
+.omc/
+company-profile.md
+*.xlsx
+*.docx
+companies/
